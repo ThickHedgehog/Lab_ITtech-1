@@ -33,7 +33,7 @@
 - ACL не действует на трафик, сгенерированный самим маршрутизатором.
 - Адреса сетей записываются в ACL с wildcard маской
 
-Результат работы в формате .pka можно скачать по [ссылке](https://github.com/ThickHedgehog/Lab_ITtech-1/blob/main/IDM-22-07.Svitsov.Seti.pka), описание в формате .pdf доступно [здесь](https://github.com/kamneva/Laboratory_InternetTechnologies/blob/main/ИДБ-18-04.Камнева.pdf)
+Результат работы в формате .pka можно скачать по [ссылке](https://github.com/ThickHedgehog/Lab_ITtech-1/blob/main/IDM-22-07.Svitsov.Seti.pka).
 
 ## ✅ Экзаменационные билет №21
 
